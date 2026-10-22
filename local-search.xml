@@ -4,6 +4,25 @@
   
   
   <entry>
+    <title>宏观经济学笔记</title>
+    <link href="/2026/10/22/%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6/"/>
+    <url>/2026/10/22/%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6/</url>
+    
+    <content type="html"><![CDATA[<h2 id="1-GDP"><a href="#1-GDP" class="headerlink" title="1.GDP"></a>1.GDP</h2><p>国内生产总值（Gross Domestic Product，简称GDP）是宏观经济学与国民经济核算的核心总量指标，指一国或地区所有常住单位在一定时期内生产活动的<strong>最终产品和劳务</strong>的价值。</p><p>GDP是非常常见的经济指标，能够体现经济体和国家的规模和实力；但同时它不能衡量非市场活动、不能体现民众生活质量。</p><h3 id="GDP的三种计算方法："><a href="#GDP的三种计算方法：" class="headerlink" title="GDP的三种计算方法："></a>GDP的三种计算方法：</h3><p>1.支出法：<br>$$<br>GDP &#x3D; C + I + G+ NX<br>$$</p><ul><li>C：居民消费 (个人购买的快消日化、耐用品、服务等)</li><li>I：投资（此“投资”特指实物资本，非金融理财产品）</li><li>G：政府购买 (政府采购、公职人员雇佣)</li><li>NX：净出口（出口 - 进口）</li></ul><p>2.生产法：从“生产端”算（我国季度GDP常用的计算方法）<br>$$<br>GDP &#x3D; \sum 各行业增加值<br>$$<br>3.收入法：从“分配端”算（工人、政府、资本家收入 - 生产资料损耗）<br>$$<br>GDP &#x3D; 劳动者报酬 + 生产税净额 + 固定资产折旧 + 营业盈余<br>$$</p><ul><li><strong>劳动者报酬</strong>：工资、奖金、社保等</li><li><strong>生产税净额</strong>：税 - 补贴（如增值税、消费税减去政府补贴）</li><li><strong>固定资产折旧</strong>：机器设备厂房损耗 </li><li><strong>营业盈余</strong>：企业利润 + 其他剩余收益</li></ul><h3 id="GDP平减指数："><a href="#GDP平减指数：" class="headerlink" title="GDP平减指数："></a>GDP平减指数：</h3><ul><li><h3 id="名义GDP"><a href="#名义GDP" class="headerlink" title="名义GDP"></a>名义GDP</h3><p>用<strong>当年市场价格</strong>计算的全部最终产品和服务的价值总和。<br>$$<br>名义GDP &#x3D; \sum (当年产量_i \times 当年价格_i)<br>$$</p><h3 id="实际GDP"><a href="#实际GDP" class="headerlink" title="实际GDP"></a>实际GDP</h3><p>用<strong>基年（固定年份）价格</strong>计算的全部最终产品和服务的价值总和，剔除了价格变动的影响。<br>$$<br>实际GDP &#x3D; \sum (当年产量_i \times 基年价格_i)<br>$$</p><p>$$<br>GDP平减指数 &#x3D; \frac{名义GDP}{实际GDP} \times 100<br>$$</p><p>GDP平减指数实际上就是<code>整个国家生产的所有东西的综合价格变化比率</code></p><p>故有：</p></li></ul><p>$$<br>\text{通胀率} &#x3D; \frac{\text{本期GDP平减指数} - \text{上期GDP平减指数}}{\text{上期GDP平减指数}} \times 100%<br>$$</p><h2 id="2-CPI"><a href="#2-CPI" class="headerlink" title="2.CPI"></a>2.CPI</h2><p>​<strong>CPI（Consumer Price Index，居民消费价格指数）</strong> 是衡量一国居民日常生活所购买的<strong>一篮子代表性商品和服务</strong>价格水平随时间变动的宏观经济指标。用这玩意可以算<strong>通货膨胀率</strong><br>$$<br>CPI &#x3D; \frac{\text{报告期一篮子商品总金额}}{\text{基期同一篮子商品总金额}} \times 100<br>$$<br>通货膨胀指的就是<strong>整体物价水平持续、普遍上涨</strong>，同时**钱越来越不值钱（货币购买力下降）**的现象<br>那么通货膨胀率：<br>$$<br>\text{通胀率} &#x3D; \frac{\text{本期CPI} - \text{去年同期CPI}}{\text{去年同期CPI}} \times 100%<br>$$</p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>经济学</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>小白的frida入门</title>
     <link href="/2026/04/30/1/"/>
     <url>/2026/04/30/1/</url>
