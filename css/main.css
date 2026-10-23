@@ -969,13 +969,13 @@ body.mobile-menu-open {
   --link-hover-color: #30a9de;
   --link-hover-bg-color: #f8f9fa;
   --line-color: #eaecef;
-  --navbar-bg-color: #2f4154;
+  --navbar-bg-color: #4a4a4a;
   --navbar-text-color: #fff;
   --subtitle-color: #fff;
   --scrollbar-color: #c4c6c9;
   --scrollbar-hover-color: #a6a6a6;
   --button-bg-color: transparent;
-  --button-hover-bg-color: #f2f3f5;
+  --button-hover-bg-color: #383838;
   --highlight-bg-color: #f6f8fa;
   --inlinecode-bg-color: rgba(175,184,193,0.2);
   --fold-title-color: #3c4858;
@@ -986,8 +986,8 @@ body.mobile-menu-open {
     --color-mode: "dark";
   }
   :root:not([data-user-color-scheme]) {
-    --body-bg-color: #181c27;
-    --board-bg-color: #252d38;
+    --body-bg-color: #4f5259;
+    --board-bg-color: #363636;
     --text-color: #c4c6c9;
     --sec-text-color: #a7a9ad;
     --post-text-color: #c4c6c9;
@@ -996,13 +996,13 @@ body.mobile-menu-open {
     --link-hover-color: #30a9de;
     --link-hover-bg-color: #364151;
     --line-color: #435266;
-    --navbar-bg-color: #1f3144;
+    --navbar-bg-color: #4a4a4a;
     --navbar-text-color: #d0d0d0;
     --subtitle-color: #d0d0d0;
-    --scrollbar-color: #687582;
+    --scrollbar-color: #7d7d7d;
     --scrollbar-hover-color: #9da8b3;
     --button-bg-color: transparent;
-    --button-hover-bg-color: #46647e;
+    --button-hover-bg-color: #666666;
     --highlight-bg-color: #303030;
     --inlinecode-bg-color: rgba(99,110,123,0.4);
     --fold-title-color: #c4c6c9;
@@ -1024,8 +1024,8 @@ body.mobile-menu-open {
 }
 @media not print {
   [data-user-color-scheme="dark"] {
-    --body-bg-color: #181c27;
-    --board-bg-color: #252d38;
+    --body-bg-color: #4f5259;
+    --board-bg-color: #363636;
     --text-color: #c4c6c9;
     --sec-text-color: #a7a9ad;
     --post-text-color: #c4c6c9;
@@ -1034,13 +1034,13 @@ body.mobile-menu-open {
     --link-hover-color: #30a9de;
     --link-hover-bg-color: #364151;
     --line-color: #435266;
-    --navbar-bg-color: #1f3144;
+    --navbar-bg-color: #4a4a4a;
     --navbar-text-color: #d0d0d0;
     --subtitle-color: #d0d0d0;
-    --scrollbar-color: #687582;
+    --scrollbar-color: #7d7d7d;
     --scrollbar-hover-color: #9da8b3;
     --button-bg-color: transparent;
-    --button-hover-bg-color: #46647e;
+    --button-hover-bg-color: #666666;
     --highlight-bg-color: #303030;
     --inlinecode-bg-color: rgba(99,110,123,0.4);
     --fold-title-color: #c4c6c9;
